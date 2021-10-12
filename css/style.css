@@ -288,10 +288,6 @@ section {
   display: none;
 }
 
-.space {
-  min-height: 30vh;
-}
-
 .footer {
   background: #f3f3f3;
 }
@@ -352,7 +348,7 @@ section {
 
 .credit {
   text-align: center;
-  font-size: 1.7rem;
+  font-size: 2rem;
   background: #bac34e;
   color: #fff;
 }
